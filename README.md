@@ -39,6 +39,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href = "mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Snake
+<!--## Snake
 
 ![snake gif](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.gif)
+
+-->
