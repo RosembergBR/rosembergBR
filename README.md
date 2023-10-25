@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
 
-##
-
 <div>
  <a href="https://github.com/rosembergbr"> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosembergbr&show_icons=true&theme=dark"/>
