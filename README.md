@@ -46,7 +46,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <div>
  <div align="center">
-   ![Snake animation](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.svg) 
+   ![snake gif](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.gif)
  </div>
  <p></p>
 <div>
