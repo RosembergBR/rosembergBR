@@ -1,19 +1,13 @@
-## Hi! Sou o Rosemberg - Dev. e Data Scientist
+<div align="center">
+  
+## Olá! Sou Rosemberg, Dev. e Data Science.
 
-<!--
-**RosembergBR/rosembergBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+- 🔭 Atualmente desenvolvendo em JS, CSS, HTML e Python.
+- 🌱 No momento estudando PHP e Laravel.
 
-- 🔭 Atualmente desenvolvendo em Python, HTML, CSS e JS.
-- 🌱 Estudando PHP e Laravel.
-- 💬 Ask me about ...
-- 📫 Fale comigo através do email: 
-- 😄 Pronouns: ele/dele
--->
-
-<!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
+#
 
 <div>
   <div align="center">
@@ -30,8 +24,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Berg-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
 </div>
   
-  ##
- 
+#
+
 <div> 
   <div align="center">
 <!--  <a href="https://www.youtube.com/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -42,16 +36,10 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href = "mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Snake
-
-<div>
- <div align="center">
-   ![snake gif](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.svg)
- </div>
- <p></p>
-<div>
+<!--
  <div align="center"
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos <a href="https: Rafaela Balerini">Rafaela Balerini</a> e  <a href="https: Anurag Hazra">Anurag Hazra</a>
+  <p>Créditos <a href="https: xxxxxx">xxxxxxx</a> e  <a href="https: xxxxxx">xxxxxxx</a>
   </p>
 </div>
+-->
