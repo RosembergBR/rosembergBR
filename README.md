@@ -45,7 +45,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  <div align="center">
   ![snake animation](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.svg)
 </div>
- 
+ <p></p>
 <div>
  <div align="center"
   <p>Feito com :heart: e JavaScript.</p>
