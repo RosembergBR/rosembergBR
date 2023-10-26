@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
 
 <div>
- <a href="https://github.com/rosembergbr"> 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosembergbr&show_icons=true&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosembergbr&layout=compact&theme=dark"/>
+  <div align="center">
+  <a href="https://github.com/rosembergbr"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosembergbr&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosembergbr&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
+  <div align="center">
   <img align="center" alt="Berg-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Berg-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Berg-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -31,6 +33,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   ##
  
 <div> 
+  <div align="center">
 <!--  <a href="https://www.youtube.com/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/xxxxxx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -43,8 +46,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <div>
  <div align="center">
-  ![snake animation](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![snake gif](https://github.com/rosembergbr/rosembergbr/blob/output/github-contribution-grid-snake.svg)
+ </div>
  <p></p>
 <div>
  <div align="center"
